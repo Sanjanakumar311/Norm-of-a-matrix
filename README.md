@@ -57,6 +57,7 @@ print(norm_of_matrix)
 <br>
 <br>
 <br>
+
 ![Screenshot (46)](https://github.com/user-attachments/assets/4e9093e9-8dfe-4977-8b58-3e4187d67290)
 
 
@@ -64,6 +65,8 @@ print(norm_of_matrix)
 <br>
 <br>
 <br>
+
+
 ![Screenshot (47)](https://github.com/user-attachments/assets/ff56045a-09e8-44e5-b264-56b432d5547a)
 
 
